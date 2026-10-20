@@ -1,0 +1,6 @@
+{
+  "name": "Kawaii Arcade - Cute Mini Games",
+  "description": "Playful collection of cute games including Tic-Tac-Toe, Connect 4, Memory Match, and Guessing games with animated avatar companions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
